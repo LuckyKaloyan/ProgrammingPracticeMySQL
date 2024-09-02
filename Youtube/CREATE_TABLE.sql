@@ -1,5 +1,5 @@
 CREATE TABLE employees(
-empolyee_id INT,
+employee_id INT,
 first_name VARCHAR(50),
 last_name VARCHAR(50),
 hourly_pay DECIMAL(5,2),
